@@ -1,5 +1,8 @@
-baseURL = 'https://example.org/'
+baseURL = 'http://localhost:1313/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageName = 'Japanese'
+defaultContentLanguage = 'ja'
+hasCJKLanguage = true
+title = 'Tomomasa Hara'
 
-theme = "paper"
+theme = "hugo-theme-techdoc"
