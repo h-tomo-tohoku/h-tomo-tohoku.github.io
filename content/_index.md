@@ -1,13 +1,13 @@
 +++
 title = 'Tomomasa Hara (原 知正)'
-date = 2024-03-10T01:28:08+09:00
+date = 2024-11-08T01:28:08+09:00
 +++
 
 # Tomomasa Hara (原 知正)
 
 ## 所属・身分
 
-学部4年
+修士1年
 
 - [東北大学工学部電気情報物理工学科](https://www.ecei.tohoku.ac.jp/eipe/)
 - [Tohoku NLP](https://www.nlp.ecei.tohoku.ac.jp/) (坂口・乾・徳久研究室)
