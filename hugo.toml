@@ -1,3 +1,14 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'ja-jp'
+title = 'Tomomasa Hara'
+
+[params]
+  [params.homeInfoParams]
+    Title = ''
+  [[params.socialIcons]]
+    name = "GitHub"
+    url = "https://github.com/h-tomo-tohoku"
+
+  [[params.socialIcons]]
+    name = "Twitter"
+    url = "https://x.com/tomomasa_hara"
