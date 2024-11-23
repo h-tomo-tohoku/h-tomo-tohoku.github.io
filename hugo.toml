@@ -1,6 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'ja-jp'
 title = 'Tomomasa Hara'
+theme = 'PaperMod'
 
 [params]
   [params.homeInfoParams]
